@@ -13,8 +13,9 @@ Chicago ML Study Group - Natural Language Processing Team
 ## Basics of National Language Processing (NLP)
 
 ## Resources
-* NLP for Python book
+* [NLP for Python book](http://www.nltk.org/book/)
 * eBooks
-* PyCon 2016 Stats for Hackers talk
+* PyCon 2016 - Stats for Hackers by Jake VanderPlas - [Slides](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 * Alan Downey - PyCon versions
 * Stats - what do we need to know?
+* [4 Demos](http://text-processing.com/demo/)
