@@ -25,3 +25,4 @@ Chicago ML Study Group - Natural Language Processing Team
 * [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [NLP by Peter Norvig](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb?utm_content=buffer50ad7&utm_medium=social&utm_source=tw)
+* [Universal Dependencies](http://universaldependencies.org/)
