@@ -1,0 +1,54 @@
+COMPANY
+Trustwave
+
+JOB TITLE
+Database Security Researcher
+
+URL POSTED AT
+http://www.builtinchicago.org/job/database-security-researcher
+
+RETRIEVED AT
+2016.08.13
+
+JOB DESCRIPTION
+Trustwave helps businesses fight cybercrime, protect data and reduce security risk. With cloud and managed security services, integrated technologies and a team of security experts, ethical hackers and researchers, Trustwave enables businesses to transform the way they manage their information security and compliance programs. Trustwave delivers automated, efficient and cost-effective threat, vulnerability and compliance management. Trustwave is a privately held company, headquartered in Chicago, with customers in 96 countries. For more information about Trustwave, visit https://www.trustwave.com.  
+  
+SpiderLabs is the advanced security team responsible for application security, incident response, penetration testing, physical security and security research for Trustwave's clients. In addition, SpiderLabs performs 3rd party security reviews and intelligence for Trustwave's products and provides and security thought leadership to the entire organization. SpiderLabs has responded to hundreds of security incidents, performed thousands of penetration tests and security tested hundreds of business applications for some of the largest organizations in the world. Members of SpiderLabs are frequently asked to speak at security conferences around the world. SpiderLabs has research facilities in Chicago, Sao Paulo, London, Israel, Sydney and Auckland.
+
+Security Researcher: Database Activity Monitoring
+
+The Security Researcher will be a key team member of the database security research team whose focus will be tracking and researching new trends in the database security field. This position will conduct security research on database applications, analyze and evaluate new threats and develop defensive protections. This role will also be responsible for managing and improving the meta-data that is used to describe security controls and enhancing it with additional capabilities. The Security Researcher brings a wealth of experience in database security and vulnerability research. Using this experience, a successful candidate will join the SpiderLabs DST team and extend the security research and detection capabilities of activity monitoring technologies that support Trustwave's database activity monitoring applications.
+
+Responsibilities:
+•	Write rules and knowledge-base articles for our database activity monitoring products
+•	Work with engineering on defining new features and improving existing features off our existing database activity monitoring engine
+•	Work with vendors and analyze vendor patches for vulnerability fixes and proof of concepts
+•	Participate in peer code reviews
+•	Research database security issues
+Requirements:
+•	Expertise in the software security field
+•	Experience in vulnerabilities research
+•	Experience writing vulnerability detection and software configuration signatures
+•	Experience with Regular Expressions
+•	Database skills: SQL and administration skills for at least one major database e.g. Oracle Database, MSSQL, IBM DB2 LUW, SAP ASE, MySQL
+•	Excellent debugging skills
+•	Ability to work under tight deadlines with creativity
+•	Self-motivated, independent and able to quickly assess and understand complex systems
+•	Must possess strong written and verbal communication skills
+•	Preferred to be located either within the Chicago-land, metro New York City, or Greater Denver - Boulder area, though we will consider strong remote candidates
+Additional Plus Competencies:
+•	Advanced Linux / Unix knowledge
+•	Programming skills in languages like: Python, C++ and/or C\#
+•	Familiarity with compliance regulations and standard frameworks like DISA-STIG, CIS, etc.
+•	Experience with vulnerability discovery and disclosure, as well as proof-of-concept exploit development
+•	Experience with reverse engineering and assembly language
+•	Experience with source code management tools such as git or Subversion.
+•	Experience and/or willingness to present at security conferences like DEFCON, BlackHat, etc.
+•	Experience and/or willingness to write technical blog posts (Seehttp://blog.spiderlabs.com/)
+
+Education:
+We prefer college-educated applicants, but at minimum, high school diploma or equivalent is required for employment.
+
+Trustwave is an Equal Opportunity Employer of Minorities, Females, Protected Veterans, and Individuals with Disabilities.
+To All Agencies:
+Please, no phone calls or emails to any employee of Trustwave outside of the Talent Acquisition team. Trustwave’s policy is to only accept resumes from agencies via the Trustwave Agency Portal. Agencies must have a valid fee agreement in place and they must have been assigned the specific requisition to which they submit resumes, by the Talent Acquisition team. Any resume submitted outside of this process will be deemed the sole property of Trustwave and in the event a candidate is submitted outside of this policy is hired, no fee or payment of any kind will be paid.

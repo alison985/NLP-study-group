@@ -1,0 +1,42 @@
+COMPANY
+ParkWhiz
+
+JOB TITLE
+Data Engineer
+
+URL POSTED AT
+http://www.builtinchicago.org/job/data-engineer-20
+
+RETRIEVED AT
+2016.08.13
+
+JOB DESCRIPTION
+We know that in order to derive value from data it needs to be clean (or as clean as data can be, anyway). ParkWhiz is looking to bring on a Data Engineer to help drive this effort. Reporting into the VP of Engineering, this person will take ownership of the completeness, correctness, and optimal format of data in our data warehouse in order to support data analysis and storytelling efforts.
+
+What you'll tackle:
+•	Design new enterprise data models and ETL processes to populate them
+•	Assess and optimize current data environment
+•	Become the “go to” and expert around data. Work closely with staff to understand all data from our core systems, partner services, and any other platforms we rely on
+•	Extract and transform data from product databases and 3rd party services to provide consumable data and support functions across the organization
+•	Detect quality issues, track them to their root source, and implement fixes and preventative audits
+•	Manage and optimize Redshift clusters to ensure current health and performance and future scaling needs
+What You Bring to the Table:
+•	Experience with AWS; expertise in Redshift, Postgres or other RDBSs
+•	Ability to write customer software with Ruby, Python, Perl or other common open source languages
+•	You can efficiently and effectively design data models and structures
+•	Creativity in approaching data organization challenges with an understanding of the end goal
+•	Expertise in SQL and ability to write and optimize complex queries
+•	Strong interest in MapReduce, machine learning, predicative analysis, or other advanced data topics
+•	A collaborative nature and entrepreneurial spirit. Prior startup experience a huge plus
+Benefits:
+•	Competitive salaries
+•	Medical, dental, and life insurance
+•	Flexible schedules
+•	Paid holidays and generous vacation
+•	Workstation of your choice
+•	Casual office with stocked kitchen and ping pong
+•	You'll be working alongside a team of phenomenal people
+About ParkWhiz
+Founded in 2006, Chicago based ParkWhiz.com pioneered the eParking marketplace and has since become the industry standard and market share leading platform for event and downtown parking bookings across the country. ParkWhiz has extraordinarily strong revenue growth and ongoing product innovations that continue to change the way people think about parking.
+ParkWhiz.com attracts highly-competitive over-achievers who thrive in a dynamic environment. Employees enjoy the rewards and challenges associated with a constantly evolving market leading technology company. If you embrace challenge, work well in a team setting, and are driven to grow and excel in your career, we'd like to hear from you.
+

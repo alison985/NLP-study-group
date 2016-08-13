@@ -1,0 +1,37 @@
+COMPANY
+Trustwave
+
+JOB TITLE
+Associate Security Consultant
+
+URL POSTED AT
+http://www.builtinchicago.org/job/associate-security-consultant-0
+
+RETRIEVED AT
+2016.08.13
+
+JOB DESCRIPTION
+Trustwave helps businesses fight cybercrime, protect data and reduce security risk. With cloud and managed security services, integrated technologies and a team of security experts, ethical hackers and researchers, Trustwave enables businesses to transform the way they manage their information security and compliance programs. Trustwave delivers automated, efficient and cost-effective threat, vulnerability and compliance management. Trustwave is headquartered in Chicago, with customers in 96 countries. For more information about Trustwave, visithttps://www.trustwave.com.
+The Associate Security Consultant will join Trustwave’s Global Compliance & Risk Services organization, the world leaders in Payment (PCI) Security Assessment and Consulting. The Payment environment is dynamic, and requires a comprehensive and continuously evolving security standard, to combat the threats it faces from organizations actively targeting the trillions of dollars of card payments each year. Trustwave Security Consultants work with the world’s leading Merchants, Banks, Service Providers, and all organizations engaged in substantial payment acceptance, to advise and asses their security programs against Payment Card Industry (PCI) Standards. As a Qualified Security Assessor Company, Trustwave provides services to organizations in every corner of the globe, we have the largest and strongest PCI practice found anywhere. Trustwave’s Global Compliance & Risk Services alsoprovides comprehensive services beyond PCI, which support Information security program development and validation.
+In support of our continued, aggressive growth, we have created the role of Associate Security Consultant. You will be part of a team of Associate Consultants based in Chicago, IL working with Security Consultants, under the direction of Managing Consultants. You will assist with a wide variety of client engagements, which may include comprehensive security gap assessments, PCI compliance validation assessments, and consulting. You may also have the opportunity to work directly with clients to provide guidance in support of their ongoing compliance efforts.
+Your tasks may include the following:
+•	Conducting documentation and evidence reviews.
+•	Data gathering and analysis.
+•	Communicate the intent and specific requirements of Security Standards (PCI, etc.) to clients.
+•	Review and assessment of Business Process, Data Flows, Network Diagrams, Inventories, System and Network Security Configuration Standards, and other security controls, against the requirements defined by security frameworks and standards, such as PCI.
+•	Site assessments (limited scope and environments, following assessment checklists), and documentation of findings.
+•	Correlation and communication of findings through verbal and written communication.
+•	Ability to write technical and professional level narratives.
+•	Limited travel (10-30%).
+Experience:
+•	Veterans welcome!
+•	Industry Education and Certifications (Security+, SANS, etc.) is a plus. (Trustwave will pay for and provide training for our employees to pursue these certifications and others.
+•	Excellent verbal and written communications skills required in both English and Spanish
+Education:
+We prefer college-educated applicants, but at minimum, high school diploma or equivalent is required for employment.
+ 
+Trustwave is an Equal Opportunity Employer of Minorities, Females, Protected Veterans, and Individuals with Disabilities.
+ 
+ 
+To All Agencies:
+Please, no phone calls or emails to any employee of Trustwave outside of the Talent Acquisition team. Trustwave’s policy is to only accept resumes from agencies via the Trustwave Agency Portal. Agencies must have a valid fee agreement in place and they must have been assigned the specific requisition to which they submit resumes, by the Talent Acquisition team. Any resume submitted outside of this process will be deemed the sole property of Trustwave and in the event a candidate is submitted outside of this policy is hired, no fee or payment of any kind will be paid.

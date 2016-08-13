@@ -1,0 +1,67 @@
+COMPANY
+Capital One
+
+JOB TITLE
+Data Scientist Intern - Virginia Tech
+
+URL POSTED AT
+http://www.builtinchicago.org/job/data-scientist-intern-virginia-tech-0
+
+RETRIEVED AT
+2016.08.13
+
+JOB DESCRIPTION
+McLean 1 (19050), United States of America, McLean, Virginia
+
+
+At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.   
+Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.
+
+Data Scientist Intern - Virginia Tech
+
+
+At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.   
+  
+Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.
+
+As a Data Scientist at Capital One, you’ll be part of a high-performing team that’s embracing the latest in computing technologies to unlock opportunities that help everyday people save money and improve their financial lives.  
+  
+You'll help our customers solve their financial services challenges by using groundbreaking techniques. You'll make valuable contributions from day one by continuously learning, engaging in diverse sets of experiences and building close-knit relationships across the company.  
+  
+On any given day you might:
+Evaluate open source and internally-developed modeling and analytics tools using real business data
+Integrate internal data with external data sources and APIs to discover actionable insights
+Design and craft rich data visualizations to extract insights and communicate stories to customers and company leadership
+  
+We'd love to find someone who is…  
+1. Curious. You ask why, you explore, and you are excited to imagine and create new ideas by inventing self-adaptive models or by tapping into unstructured data sources. You're also excited to try new tools or technologies.  
+2. Data Savvy. You are passionate about moving data from a database or an API and transforming it into everyday language.  
+3. A do-er. You love trying new things, even if you sometimes fail.  
+  
+Are you ready to join a community of people like you - ones who embrace customer problems and use their passion and capabilities to make a difference every single day?
+
+Basic Qualifications:  
+• Will obtain a master’s or PhD degree in a quantitative field of study between December 2017 and August 2018  
+• At least 6 months of experience or course work in open source programming languages for data analysis  
+• At least 6 months of experience or course work in inferential statistics or machine learning
+  
+Preferred Qualifications:  
+• Direct experience with either Python or R, plus one other general purpose programming language such as Java or C/C++  
+• Experience or course work with relational databases  
+• Experience or course work with large scale data analysis
+
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
+
+No agencies please. Capital One is an Equal Opportunity Employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to gender, race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status protected by applicable national, federal, state or local law Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+
+If you require an accommodation to apply for a job or to perform a job, please contact Capital One Recruiting at 1-800-304-9102 orRecruitingAccommodation@capitalone.com.
+
+All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+

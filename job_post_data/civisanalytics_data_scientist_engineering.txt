@@ -1,0 +1,34 @@
+COMPANY
+Civis Analytics
+
+JOB TITLE
+Data Scientist - Engineering
+
+URL POSTED AT
+https://jobs.lever.co/civisanalytics/e7165975-3545-471d-9844-302331d51a63
+
+RETRIEVED
+2016.08.13
+
+JOB DESCRIPTION
+Are you interested in driving cutting edge data science research and development? Want to make contributions to an exciting fast growing Chicagoland company? Aspire to be surrounded by some of the best and brightest talent? If so – come join the research and development (R&D) team at Civis Analytics.
+
+The R&D team develops the fundamental data science methods, techniques, and best practices that powers the work of Civis Analytics. Our diverse work includes predictive analytics, algorithm development, experimental design, visualization, and survey research. As a data scientist on our Chicago-based team, you’ll work closely and collaboratively with analysts and engineers to develop and operationalize the techniques that quantify and solve big, meaningful problems.
+
+With a specialization in engineering, you’ll tackle the challenging computational and programming problems that are critical for the creation and application of new data science to big data. Integrate, scale, and optimize our team’s data science methods, techniques, and best practices to run on very large datasets at high speeds. The role is critical to the development of completed data science research used in client-facing tools. This ensures that what we build is automated, scalable, robust, and used to solve real business problems. You’ll be involved in high visibility projects as well as receive mentorship from senior team members.
+
+Qualified individuals are those from a diversity of backgrounds with demonstrated quantitative and problem-solving skills. We value creativity, hard work, and on-the-job-excellence, and offer competitive compensation and benefits packages. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States.
+
+MINIMUM QUALIFICATIONS
+◦	Master’s degree in a technical field, such as statistics, machine learning, physics, engineering, or computer science or a bachelor’s degree and outstanding work experience.
+◦	Demonstrated capabilities using applied statistics or machine learning in a professional or other intensive problem-solving environment with large, complex datasets
+◦	Expertise in the Python scientific stack (NumPy, SciPy, scikit-learn, pandas)
+◦	Experience in software engineering and maintaining a code base
+◦	Established skills identifying and correcting for problems in imperfect data
+◦	Ability and eagerness to constantly learn and teach others.
+PREFERRED QUALIFICATIONS
+◦	Significant work experience in statistical modeling or machine learning
+◦	Demonstrated capabilities with Linux and shell scripting
+◦	Familiarity with Go (golang)
+◦	Experience with SQL databases
+

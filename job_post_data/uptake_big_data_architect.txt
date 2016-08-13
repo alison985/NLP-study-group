@@ -1,0 +1,63 @@
+COMPANY
+Uptake
+
+JOB TITLE
+Big Data Architect
+
+URL POSTED AT
+http://www.builtinchicago.org/job/big-data-architect-2
+
+RETRIEVED AT
+2016.08.13
+
+JOB DESCRIPTION
+What We Do:
+
+Uptake is a Chicago-based predictive analytics SaaS platform provider that empowers major industry leaders to optimize performance, reduce asset failures and enhance safety. At Uptake, we combine our strengths—machine learning, analytics, data visualization and software development—with the expertise of our industrial partners. The result is enormous savings in development time and resources for Uptake’s partners and a proven industrial grade software platform that delivers value to partners and their end customers.
+
+What You'll Do:
+
+As a Big Data Architect, you would work with a team of architects and technical operators to develop scalable data storage infrastructure with backup, restore and monitoring solutions. You’d provide data architecture leadership with the ability to teach a team of engineers.
+
+Responsibilities:
+
+•	
+•	Develop scalable polyglot data storage services and infrastructure
+•	
+•	Collaborate with sprint teams on data storage-related stories
+•	
+•	Provide mentorship and guidance to team members
+•	
+
+ 
+Qualifications:
+
+•	
+•	Ability to teach and lead a team of front-end developers
+•	
+•	Experience working with Agile methodologies (preferred)
+•	
+•	Exceptional communication and leadership skills
+•	
+•	5+ years of experience using messaging systems
+•	
+•	7+ years of application development experience
+•	
+•	Understanding of structure and usage of REST API’s
+•	
+•	Experience with Service-oriented Architecture (SOA) and Event-driven Architecture (EDA)
+•	
+•	Familiarity with Spark and Storm
+•	
+•	Experience with noSQL solutions: Cassandra, HDFS and Elasticsearch
+•	
+•	Experience using big data solutions in an AWS environment (preferred) 
+•	
+
+Please provide:
+
+•	
+•	Resume
+•	
+•	Cover letter
+•	

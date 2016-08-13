@@ -1,0 +1,43 @@
+COMPANY
+Civis Analytics
+
+JOB TITLE
+Senior Applied Data Scientist - Chicago
+
+URL POSTED AT
+https://jobs.lever.co/civisanalytics/2f3020f9-8535-4b04-9f50-d0d5939733ee
+
+RETRIEVED AT
+2016.08.13
+
+JOB DESCRIPTION
+Are you interested in using data science to solve big and important problems in new ways — like helping a green energy startup find new areas of growth, figuring out how to increase participation in vital social services, or completely changing the way that large brands engage with consumers?
+
+The Applied Data Science (ADS) team is the advisory arm of Civis Analytics, working closely with companies, nonprofits, and campaigns to help solve their toughest challenges with data science.
+
+Senior Applied Data Scientists structure difficult problems, analyze large data sets, build predictive models, collaborate in cross-functional teams, create and deliver presentation materials, and manage the completion of client projects.
+
+We’ve hired individuals from a wide range of backgrounds: consultants, academics, and everything in between. We value creativity, hard work, and a proven track record of consistent excellence. In compliance with federal law, all persons hired will be required to verify their identity and eligibility to work in the United States.
+
+RESPONSIBILITIES
+◦	Manages data science projects for clients from beginning to end
+◦	Structure complex client problems to be solved using imperfect data
+◦	Work with cross-functional teams of engineers, data scientists, social scientists as necessary
+◦	Enhance, find patterns in, and build predictive models on large data sets
+◦	Translate findings into clear, actionable, and timely insights
+◦	Communicate findings to clients with various skill levels and in various roles
+◦	Creatively identifies opportunities to convert insights from client engagements into scalable decision applications, and collaborates with other teams to build these tools
+◦	Assists Applied Data Science Managers in new business development, including scoping projects, writing proposals, and building and maintaining case studies and other project collateral
+◦	Works independently and pro-actively, asks for help when needed, both of peers and supervisors
+◦	Teaches and mentors Applied Data Scientists
+◦	Travel requirements: \< 5%
+MINIMUM QUALIFICATIONS
+◦	Bachelor’s degree in an analytical subject (statistics, math, economics, physics, political science, etc)
+◦	Experience working with large and messy data sets (SQL experience is a plus)
+◦	Proficiency with statistical packages (R, Python, STATA, etc) and proven ability to work pragmatically with statistical concepts
+◦	Experience working with presentation and data visualization software, such as Microsoft Office or Tableau
+◦	Excellent interpersonal and communication skills
+PREFERRED QUALIFICATIONS
+◦	Experience framing analytics results within appropriate business context, and communicating these results to stakeholders at all levels
+◦	Experiencing mentoring more junior members of a team
+◦	Practical understanding of and experience with predictive analytics and machine learning
