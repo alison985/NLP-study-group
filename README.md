@@ -10,6 +10,16 @@ Chicago ML Study Group - Natural Language Processing Team
 
 ### Job Description Biases
 
+#### Installation/Setup on Mac
+
+Assumes `pip`, `virtualenv`, and `virtualenvwrapper`.
+
+1. From the command line, `mkvirtualenv nlp-study-group`.
+2. If you aren't already placed in the virutal environment by default, run `workon nlp-study-group`.
+3. Run `pip install -r requirements_mac.txt` to install the dependencies in your virtual environment.
+4. `jupyter-notebook` to open Jupyter Notebook.
+5. Alison's work is in notebooks/Alison.ipynb. Feel free add to or make your own notebook. Either way!
+
 ## Basics of National Language Processing (NLP)
 
 ## Resources
